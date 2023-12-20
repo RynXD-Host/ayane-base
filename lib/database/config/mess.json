@@ -1,0 +1,25 @@
+{
+  "owner": "Fitur Khusus Owner Bot",
+  "admin": "Fitur Khusus Admin",
+  "botAdmin": "Bot Bukan Admin!",
+  "group": "Fitur Ini Hanya Dapat Digunakan Didalam Group",
+  "private": "Fitur Ini Hanya Dapat Digunakan Private Chat",
+  "error": {
+    "lv": "Terjadi Kesalahan",
+    "api": "Terjadi Kesalahan Pada Rest Api"
+  },
+  "param": {
+    "text": "Masukan Parameter Text",
+    "url": "Masukan Parameter Url",
+    "username": "Masukan Parameter Username",
+    "query": "Masukan Parameter Query"
+  },
+  "apikey": "Masukan Parameter Apikey",
+  "wait": "Loading . . .",
+  "success": "Success",
+  "react": {
+    "wait": "🕒",
+    "success": "✅",
+    "failed": "❌"
+  }
+}
